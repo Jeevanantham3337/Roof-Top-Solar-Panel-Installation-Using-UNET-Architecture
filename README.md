@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Roof-Top-Solar-Panel-Installation-Using-UNET-Architecture
+ This project uses UNet architecture to install rooftop solar panels efficiently. It identifies optimal areas for solar panel placement through image segmentation, promoting sustainable energy practices in urban areas.
+>>>>>>> fff0dd7be84b2217e2bef2091fe0d3e5999c9f32
